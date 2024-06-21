@@ -1,5 +1,5 @@
 #Erstelle Verzeichnis fuer Sound Daten
-mkdir c:\temp\fun\
+New-Item -ItemType Directory -Path c:\temp\fun\
 
 #Setze Reg-value zu der neuen Audiodatei
 
