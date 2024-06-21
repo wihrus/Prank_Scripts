@@ -1,5 +1,5 @@
 ﻿mkdir c:\temp\fun
-Invoke-WebRequest https://raw.githubusercontent.com/wihrus/Prank_Scripts/main/foo.jpg -o "C:\temp\fun\foo.jpg"
+Invoke-WebRequest https://raw.githubusercontent.com/wihrus/Prank_Scripts/main/Creepy%20Wallpaper/foo.jpg -o "C:\temp\fun\foo.jpg"
 
 Add-Type @"
 using System;
