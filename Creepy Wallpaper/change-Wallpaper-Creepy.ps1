@@ -1,4 +1,4 @@
-﻿mkdir c:\temp\fun
+New-Item -ItemType Directory -Path c:\temp\fun
 Invoke-WebRequest https://raw.githubusercontent.com/wihrus/Prank_Scripts/main/Creepy%20Wallpaper/foo.jpg -o "C:\temp\fun\foo.jpg"
 
 Add-Type @"
